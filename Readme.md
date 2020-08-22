@@ -1,0 +1,1 @@
+# Code Snippets for ES6 syntax and new methods
